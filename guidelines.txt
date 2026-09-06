@@ -1,0 +1,24 @@
+Engineering Mathematics: 
+	DM: https://www.youtube.com/playlist?list=PLC36xJgs4dxEYmhzVBW7nBdftFZ4xmiF1 {320 videos / 195 hours}
+	rest: https://www.youtube.com/playlist?list=PLvTTv60o7qj_tdY9zH7YceES7jfXiZkAz {38 videos / 75 hours}
+
+Digital Logic: https://www.youtube.com/playlist?list=PLC36xJgs4dxEErKQZ7xFxat8oh4OepU34 {176 videos / 104 hours}
+
+COA: 
+	part-1: https://www.youtube.com/watch?v=yqL4k7nlUpI&list=PLG9aCp4uE-s2tu1bTct360iCEgLgAGVqX {1 video / 11 hours}
+	part-2: https://www.youtube.com/watch?v=XPWR_opZK5c&list=PLG9aCp4uE-s2tu1bTct360iCEgLgAGVqX&index=3 {1 video /  5 hours}
+
+Programming and DS & algorithms: 
+	C: https://www.youtube.com/playlist?list=PLC36xJgs4dxG-IqARhc23jYTDMYt7yvZP {88 videos / 35 hours}
+	pointers: https://www.youtube.com/playlist?list=PLC36xJgs4dxHZsuRaVtymwdTrZhYQs7FA {39 videos / 5 hours}
+	DSA: https://www.youtube.com/playlist?list=PLC36xJgs4dxFCQVvjMrrjcY3XrcMm2GHy {298 videos / 183 hours}
+
+TOC: https://www.youtube.com/playlist?list=PLC36xJgs4dxGvebewU4z2CZYo-8nB93E7 {157 videos/ 140 hours}
+
+CD: https://www.youtube.com/playlist?list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS {40 videos / 13 hours} 
+
+OS: https://www.youtube.com/playlist?list=PL3eEXnCBViH8VzPps-6bxQUhwZ0MnYqTT {7 videos / 13 hours}
+
+DBMS: https://www.youtube.com/playlist?list=PLC36xJgs4dxGcz7nZaxGxxmbJrcgDXhFk {22 videos / 60 hours}
+
+CN: https://www.youtube.com/playlist?list=PLC36xJgs4dxHT-TxTy3U1slr5RaBJGaLd {202 videos / 62 hours}
